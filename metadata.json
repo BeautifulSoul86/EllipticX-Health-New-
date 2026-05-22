@@ -1,0 +1,8 @@
+{
+  "name": "EllipticX Health",
+  "description": "Immersive, interacting emotionally intelligent AI-powered elliptical fitness coach with human like realistic personality and voice with adaptive workouts, health syncing, and social community support, challenges, and motivating progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
